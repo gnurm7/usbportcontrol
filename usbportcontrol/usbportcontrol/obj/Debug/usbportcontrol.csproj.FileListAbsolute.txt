@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\bin\Debug\usbportcontrol.exe.config
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\bin\Debug\usbportcontrol.exe
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\bin\Debug\usbportcontrol.pdb
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.Form1.resources
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.Properties.Resources.resources
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.exe
+C:\Users\HP\source\repos\usbportcontrol\usbportcontrol\obj\Debug\usbportcontrol.pdb
